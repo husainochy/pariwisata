@@ -8,6 +8,16 @@ body {
 .wrapper {
     /* background: grey; */
 }
+
+#header {
+	background: url(gambar1.jpg) repeat-x #;
+	height: 80px;
+	width: 100%;
+	padding: 5 px;
+	margin: 20px 0;
+	overflow: hidden;
+}
+
 .container {
     width: 1200px;
     margin: auto;
